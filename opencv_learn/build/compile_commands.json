@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/martin/vscodeProject/opencv_learn/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/exercise_6.dir/exercise_6.cpp.o -c /home/martin/vscodeProject/opencv_learn/exercise_6.cpp",
+  "file": "/home/martin/vscodeProject/opencv_learn/exercise_6.cpp"
+}
+]

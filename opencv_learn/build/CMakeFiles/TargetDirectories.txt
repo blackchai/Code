@@ -1,0 +1,3 @@
+/home/martin/vscodeProject/opencv_learn/build/CMakeFiles/exercise_6.dir
+/home/martin/vscodeProject/opencv_learn/build/CMakeFiles/edit_cache.dir
+/home/martin/vscodeProject/opencv_learn/build/CMakeFiles/rebuild_cache.dir
